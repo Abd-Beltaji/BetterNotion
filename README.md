@@ -1,3 +1,3 @@
 # Better Notion
 
-![BetterNotion](https://i.imgur.com/KDKYu7R.jpg)
+![BetterNotion](https://i.imgur.com/c3NQnry.png)
